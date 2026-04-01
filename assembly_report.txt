@@ -1,0 +1,58 @@
+==============================================================
+   AI CAD ASSEMBLY REPORT  —  Advanced Analysis
+==============================================================
+Generated  : 2026-03-23  11:58:25
+Parts      : 2
+Pairs      : 1
+
+LOADED PARTS  —  Deep Geometry Analysis
+---------------------------------------------
+   1. Fork End               [OK]  type=bearing
+       BBox: 170.0 x 90.0 x 160.0 mm  Volume: 875832.7 mm³
+       Cylinders: 6 (holes=2, shafts=4)  Planes: 13  Patterns: 0
+         [SHAFT blind] ∅10.000mm  L=22.44mm  ax=(0.00,-1.00,0.00)
+         [SHAFT blind] ∅10.000mm  L=22.44mm  ax=(0.00,-1.00,0.00)
+         [HOLE blind] ∅30.000mm  L=25.00mm  ax=(0.00,0.00,1.00)
+         [HOLE blind] ∅50.000mm  L=73.87mm  ax=(-1.00,0.00,0.00)
+         [SHAFT blind] ∅80.000mm  L=11.98mm  ax=(0.00,0.00,1.00)
+         [SHAFT blind] ∅90.000mm  L=55.00mm  ax=(-1.00,0.00,0.00)
+   2. Knuckle joint Part     [OK]  type=flange
+       BBox: 95.0 x 110.0 x 110.0 mm  Volume: 350438.9 mm³
+       Cylinders: 4 (holes=2, shafts=2)  Planes: 4  Patterns: 1
+         [HOLE through] ∅30.000mm  L=110.00mm  ax=(0.00,1.00,0.00)
+         [HOLE through] ∅30.000mm  L=110.00mm  ax=(0.00,0.00,-1.00)
+         [SHAFT blind] ∅55.000mm  L=96.10mm  ax=(0.00,1.00,0.00)
+         [SHAFT blind] ∅55.000mm  L=96.10mm  ax=(0.00,0.00,1.00)
+         [PATTERN:linear] N=2  BCD=0.0mm
+
+ASSEMBLY PAIRS
+---------------------------------------------
+
+  Pair 1: Knuckle joint Part  ←→  Fork End
+    Strategy      : cylinder
+    Confidence    : 92.0 %
+    Shaft dia     : 0.0000 mm
+    Hole dia      : 0.0000 mm
+    Clearance     : +0.0000 mm
+    Fit class     : Hole:side
+    ISO grade     : 
+    Note          : d=30.00mm
+    Insertion     : 0.00 mm
+    Engagement    : 0.00 mm
+    Translation   : (0.000, 0.000, 80.000) mm
+    Collision     : ⚠  YES
+
+---------------------------------------------
+MODULES
+  • Deep Geometry Analysis (diameter/length/depth/axis)
+  • Part Classification (shaft/plate/housing/bracket/flange)
+  • Hole Pattern Detection (bolt circle/linear/grid)
+  • Smart Feature Matching (ranked candidates)
+  • ISO Tolerance Analysis (fit class + grade)
+  • User Prompt Parsing (natural language)
+  • Multi-Part Chain Assembly
+  • Collision Detection
+
+==============================================================
+END OF REPORT
+==============================================================

@@ -1,0 +1,24 @@
+ASSEMBLY SEQUENCE REPORT
+============================================================
+Total steps: 9
+Completed:   9
+------------------------------------------------------------
+Step  1 [OK  ] [INSERT    ] Spherical Roller bearing: Insert Spherical Roller bearing into Support Frame + Spherical Roller Bearing
+           Note: Method: rule_based
+Step  2 [OK  ] [INSERT    ] Support Frame: Insert Support Frame into Support Frame + Spherical Roller Bearing
+           Note: Method: rule_based
+Step  3 [OK  ] [INSERT    ] Blade of Shredder: Insert Blade of Shredder into Support Frame + Spherical Roller Bearing
+           Note: Method: rule_based
+Step  4 [OK  ] [INSERT    ] Bearing Cover 1: Insert Bearing Cover 1 into Support Frame + Spherical Roller Bearing
+           Note: Method: rule_based
+Step  5 [OK  ] [INSERT    ] Bearing Cover 2: Insert Bearing Cover 2 into Support Frame + Spherical Roller Bearing
+           Note: Method: rule_based
+Step  6 [OK  ] [INSERT    ] Spacer: Insert Spacer into Support Frame + Spherical Roller Bearing
+           Note: Method: rule_based
+Step  7 [OK  ] [INSERT    ] Hexagonal Shaft: Insert Hexagonal Shaft into Support Frame + Spherical Roller Bearing
+           Note: Method: rule_based
+Step  8 [OK  ] [INSERT    ] Table Frame_: Insert Table Frame_ into Support Frame + Spherical Roller Bearing
+           Note: Method: rule_based
+Step  9 [OK  ] [INSERT    ] Fixed Blade: Insert Fixed Blade into Support Frame + Spherical Roller Bearing
+           Note: Method: rule_based
+============================================================

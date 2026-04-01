@@ -1,0 +1,20 @@
+BILL OF MATERIALS — Assembly
+Generated: 2026-04-01 11:05
+================================================================================
+#    Part Name                      Qty   Material     Finish       Mass(g)   Notes
+--------------------------------------------------------------------------------
+1    Support Frame + Spherical Roller Bearing 1     Steel        Machined     172767.0g 
+2    Spherical Roller bearing       1     Steel        Machined     4105.8g   
+3    Support Frame                  1     Steel        Machined     86381.4g  
+4    Blade of Shredder              1     Steel        Machined     9210.9g   
+5    Bearing Cover 1                1     Steel        Machined     2865.6g   
+6    Bearing Cover 2                1     Steel        Machined     2865.6g   
+7    Spacer                         1     Steel        Machined     6597.9g   
+8    Hexagonal Shaft                1     Steel        Machined     43964.0g  
+9    Table Frame_                   1     Steel        Machined     2202763.4g 
+10   Fixed Blade                    1     Steel        Machined     4648.2g   
+11   Lower Hopper                   1     Steel        Machined     950428.6g 
+12   upper Hopper                   1     Steel        Machined     1545468.8g 
+--------------------------------------------------------------------------------
+Total items: 12   Est. mass: 5032067.2g = 5032.067kg
+================================================================================
