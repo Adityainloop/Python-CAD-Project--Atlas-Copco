@@ -1,4 +1,4 @@
-🚀 AI CAD Assembly System
+# 🤖 AI-Assisted CAD Assembly System
 
 Intelligent Multi-Part CAD Assembly using Geometry + Natural Language
 
